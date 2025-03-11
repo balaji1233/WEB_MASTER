@@ -70,7 +70,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/yourusername/websage.git
-cd websage
+cd webmaster
 pip install -r requirements.txt
 
 ```
